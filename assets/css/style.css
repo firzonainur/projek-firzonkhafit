@@ -767,7 +767,7 @@ section {
 }
 
 .about .video-box {
-  background: url("../img/badminton-3.jpg") center center no-repeat;
+  background: url("") center center no-repeat;
   background-size: contain;
   min-height: 300px;
 }
