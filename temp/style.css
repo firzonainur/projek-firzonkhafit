@@ -715,7 +715,7 @@ section {
 }
 
 .about .icon-box {
-  margin-top: 10px;
+  margin-top: 40px;
 }
 
 .about .icon-box .icon {
@@ -723,8 +723,8 @@ section {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 50px;
-  height: 50px;
+  width: 64px;
+  height: 64px;
   border: 2px solid #7ceec6;
   border-radius: 50px;
   transition: 0.5s;
@@ -732,7 +732,7 @@ section {
 
 .about .icon-box .icon i {
   color: #1acc8d;
-  font-size: 24px;
+  font-size: 32px;
 }
 
 .about .icon-box:hover .icon {
@@ -763,7 +763,7 @@ section {
 .about .icon-box .description {
   margin-left: 85px;
   line-height: 24px;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .about .video-box {
